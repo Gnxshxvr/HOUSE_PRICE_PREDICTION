@@ -1,5 +1,7 @@
 # 🏠 House Price Prediction
 
+https://housepriceprediction-ezz6i6amaucggoumjnt6yo.streamlit.app/
+
 A sleek Streamlit app that estimates house prices using a pre-trained regression model. This repo is designed for rapid demonstration, interactive input, and clean deployment.
 
 ## ✨ Highlights
