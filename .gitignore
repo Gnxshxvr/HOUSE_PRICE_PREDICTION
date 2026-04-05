@@ -1,0 +1,38 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit local files
+.streamlit/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Model artifacts that should be tracked only when intentional
+# Keep the model in this repository if you want the app to work offline
+# Otherwise uncomment the line below to ignore it
+# HousePriceModel.pkl
